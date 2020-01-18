@@ -37,7 +37,7 @@ void Game::Go()
 }
 
 void Game::UpdateModel()
-{
+{//bullshit!
 }
 
 void Game::ComposeFrame()
